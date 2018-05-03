@@ -1,6 +1,6 @@
 #  api-samples-pricing
 ##  Implement APIs with the LoopBack framework
-#####  8 May 2018 - warrenf
+#####  3 May 2018 - warrenf
 
 This Node.js application returns a randomly generated price for the given product identifier. Use this application to create an endpoint for the IBM API Connect gateway.
 
