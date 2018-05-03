@@ -24,9 +24,11 @@
     "nsp": "^2.1.0"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/wrrnf/api-samples-pricing.git"
   },
-  "license": "UNLICENSED",
-  "description": "pricing"
+  "author": "Warren Fung",
+  "license": "MIT",
+  "description": "Sample Node.js Loopback REST API example for IBM Cloud",
+  "homepage": "https://github.com/wrrnf/api-samples-pricing"
 }
