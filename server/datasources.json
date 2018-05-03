@@ -1,0 +1,24 @@
+{
+  "priceREST": {
+    "name": "priceREST",
+    "crud": "false",
+    "connector": "rest",
+    "operations": [
+      {
+        "template": {
+          "method": "GET",
+          "url": "https://pricesample.mybluemix.net/price/{id}",
+          "headers": {
+            "accepts": "application/json",
+            "content-type": "application/json"
+          }
+        },
+        "functions": {
+          "price": [
+            "id"
+          ]
+        }
+      }
+    ]
+  }
+}
