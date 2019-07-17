@@ -27,7 +27,7 @@
     "type": "git",
     "url": "https://github.com/kevinom/api-samples-lookup-price.git"
   },
-  "author": "Kevin OMahony,
+  "author": "Kevin OMahony",
   "license": "MIT",
   "description": "Sample Node.js Loopback REST API example for IBM Cloud",
   "homepage": "https://github.com/kevinom/api-samples-lookup-price"
