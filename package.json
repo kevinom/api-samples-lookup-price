@@ -1,5 +1,5 @@
 {
-  "name": "pricing",
+  "name": "lookup-price",
   "version": "1.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wrrnf/api-samples-pricing.git"
+    "url": "https://github.com/kevinom/api-samples-lookup-price.git"
   },
-  "author": "Warren Fung",
+  "author": "Kevin OMahony,
   "license": "MIT",
   "description": "Sample Node.js Loopback REST API example for IBM Cloud",
-  "homepage": "https://github.com/wrrnf/api-samples-pricing"
+  "homepage": "https://github.com/kevinom/api-samples-lookup-price"
 }
